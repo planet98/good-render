@@ -4,9 +4,9 @@ export NEZHA_SERVER=${NEZHA_SERVER:-''}
 export NEZHA_PORT=${NEZHA_PORT:-''}
 export NEZHA_KEY=${NEZHA_KEY:-''}
 export TLS=${TLS:-'1'}
-export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'render.zgws.gay'}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
-export ARGO_AUTH=${ARGO_AUTH:-''}
+export ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"2f4dc092cfcc36e039b4c273a2846c50","TunnelSecret":"LQBgdmxERuw3Wv7d3DN7A3EGzkhot+qHkiy6+FeecCc=","TunnelID":"294ccebf-66be-4d1c-ad72-bb4620770cba"}'}
 export CFIP=${CFIP:-'icook.hk'}
 export NAME=${NAME:-''}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
